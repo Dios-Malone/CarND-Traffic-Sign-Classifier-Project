@@ -51,9 +51,9 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
 
-![train_distribution][./ref_img/train_distribution.png]
-![valid_distribution][./ref_img/valid_distribution.png]
-![test_distribution][./ref_img/test_distribution.png]
+![train_distribution](./ref_img/train_distribution.png)
+![valid_distribution](./ref_img/valid_distribution.png)
+![test_distribution](./ref_img/test_distribution.png)
 
 ### Design and Test a Model Architecture
 
